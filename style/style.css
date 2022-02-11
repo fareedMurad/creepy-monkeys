@@ -33,7 +33,7 @@
 
 /* banner section */
 section.banner {
-    background-image: url('../assets/Images/banner-bg.png');
+    background-image: url('../assets/images/banner-bg.png');
     background-size: cover;
     background-position: center;
     height: fit-content;
