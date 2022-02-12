@@ -36,7 +36,7 @@
 padding-top: 30px;
 }
 section.banner {
-    background-image: url('../assets/images/banner-bg.png');
+    background-image: url(../assets/images/banner-bg.png);
     background-size: cover;
     background-position: center;
     height: fit-content;
